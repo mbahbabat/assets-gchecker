@@ -10,11 +10,20 @@
       "httpOnly": false
     },
     {
+      "name": "__Host-GAPS",
+      "value": "1:QuVE23jVj5uN9QRmQt78YhScJDyQ3A:hI-_aoAAsmB2etKg",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1790950605568,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
       "name": "NID",
-      "value": "525=m-f9yLQLJ6Dj4PGFjSDo--i1wRQ5Gt0fnWNXs6_F-__MzPPlEnE_ZSJP3Cx7jw1PBR8EnHoc2H9WG-tmgGQ86zYnkfGUjUbA-JMiu6fEOoU5lPIaK5ovj9v4KO7OQ90DnkJD2nsXoPSDpsWf55377fcJ1PaUV4Fso4h11jigwZVor09NTKgp481zmcB_NSN4cg",
+      "value": "525=dgw44izLIJP7z7vdwI9PQk3hCaRQBbyHKCmlvtVBGu9jIapWBw9123W7viKXMK8WUp901z-sZnVVnhNHvkllTsfy6CtCj0tX6lUsXWndXNaSiPbDcv-OOyNOcluRFJiT1vtN-50aBQS9tNG2hVJcqFRZYCPt0YrJOCc3Op30kyPTfUMaMcNYi-CNSrnWX3zJNA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1772201804000,
+      "expires": 1772201805568,
       "secure": 1,
       "httpOnly": false
     }
