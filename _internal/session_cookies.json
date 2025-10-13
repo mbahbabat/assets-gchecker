@@ -163,47 +163,38 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzUhfrQgMBE8xPco7i3HUfmifvfjvHjrk8G-PEa5VqVGnTqGr4oQFFSvaGq1pw5tJSzrbFM",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1791934027630,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjIBmkD5S7qgfi86uXJfAXE2N9jImd7oeULUUIr2DqtfzXptd7nb_5KmO0JOvT6kEkPiPRAA",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1791934628815,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjIBmkD5S7qgfi86uXJfAXE2N9jImd7oeULUUIr2DqtfzXptd7nb_5KmO0JOvT6kEkPiPRAA",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1791934628815,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "SIDCC",
-      "value": "AKEyXzVOmtmDG-hkPpClmoD_CkuLHoASLH6hSANRQfeV_EVbSsIy6vxew-M2H-1-FO4Dq_P5rg",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1791934628815,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDCC",
       "value": "AKEyXzXMIIo4JIWGnyBGWg4KwfMIM3z1zjebsbXB-HZRPdAVcoCn0B5ew12oxb0SiiXsaYsP7Og",
       "domain": ".google.com",
       "path": "/",
       "expires": 1791934628815,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzUAW5Hfe08k4CnOjkWua65G3r1zjFWgBt8Zzks7bI-i6H_efcxQGGxb7mdRLfc0G8Ei6P0",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1791934628815,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjIBmkD5S908-Dr_z7zOGrUhrJhcWQL8z6GxlowdkRz19wFFB3DlUt9lyqqhGwLvtgp6ZBAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1791935230190,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjIBmkD5S908-Dr_z7zOGrUhrJhcWQL8z6GxlowdkRz19wFFB3DlUt9lyqqhGwLvtgp6ZBAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1791935230190,
       "secure": 1,
       "httpOnly": false
     },
