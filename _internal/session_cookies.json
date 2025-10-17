@@ -163,15 +163,6 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzVoXcxIFMp3p5KgGjGY6KVOhdN3bQkr4ZjAd4VsVjRlI5vrOBTi0VanJYGt6S1ydBNlGVQ",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1792217968591,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDTS",
       "value": "sidts-CjIBmkD5SyiNpGcl5edGefV6uOTznN9_Je94B1_WE7I2UDC3BynHeS6DlKoniYpYak1sPxAA",
       "domain": ".google.com",
@@ -201,6 +192,15 @@
     {
       "name": "__Secure-1PSIDCC",
       "value": "AKEyXzUBrvny-dkhqA6lObHMEBGuxBsvRmQpMGZgZ2p3saaT34a_MJxOk-HoH2C4R0yINyP2o8I",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1792218569783,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzXUnrjdh591zSqz7zfnBhVLk8xp_8PK_7jJ4RRYcqdopyF5DZR5AdXR9_vlMe6hz1d8oic",
       "domain": ".google.com",
       "path": "/",
       "expires": 1792218569783,
@@ -298,30 +298,12 @@
       "httpOnly": false
     },
     {
-      "name": "__Host-GMAIL_SCH",
-      "value": "nl",
-      "domain": "mail.google.com",
-      "path": "/",
-      "expires": null,
-      "secure": true,
-      "httpOnly": false
-    },
-    {
       "name": "COMPASS",
       "value": "gmail_ps=CrMBAAlriVenYIK7xbK-QlobaLbN5cWiVtlCg5uqDT_IuyFI0fXe8pjNZqsfEpAGuFVKCOQrMX7R7UTJs67ciQrgDcNYnKm-jKrxj6edQL795DC4PVCIUJboCwF2n-vbbHNRiE-WrvWzyauwihKhgd0LRstP6KLGC5M_Z4ErVqZb-u7eK2r0VIvmy3v-Lh_UlkRmZtBZKYY4rW7tbvXe9N6su_D4Glxstudxo9oQe8j_UlNCT9oQ8aLJxwYa7AEACWuJV7dZTeLBxQYuBLFt5FUXBDwEAVhrF06XP9c9KZd4X1e41EcpPMRusz4-vYz8EXvS7AuHyx8hdZfZZGLCBnmJ6ZVYMVxsDZkaAPiBBNTbzEyjzP9AL8hSZyCd-AECCeVISv2HSxSEV7ARXaLKIxkJa3sQlzwEoTKfZu5UAWbNIdVz3LQRhZ0zuwRh5nyaGgUIzM8zj_byAqKE1RdEIgdcXt1yIZ74MFVSHTdj23RPivvmkBlVmd2Z1Ho2_VJOKTFWjaaSR0jQDN5FMcWQczBsQFHpY2Sf4CJq3vd0dwMulUGn3sfsv2S96zAB:gmail=CsIBAAlriVdqlx5lVQW4oLTaL5MKLOc5GhFfbD78CnNV6M4emfZZ41uXpslS5ZGNHHtqJywLebXkK3Z2kfqFosKYm1B31j_1qUN0MYgiBvdCFigI5FlOdiO_vjY1Mox8xCM5FuuLqowfmTjRA3EZi8XJJMhGIc-bJdySBgYW43A3WF_iWmL7jh5o3BQGjNafuacII_FeTBXtQmJsuxHREAqd58N9v8Oh-ukSfsrXZZc--I3SFTOjSJ9b9ByN8VIbFs9prGkQ3qHJxwYa-wEACWuJV09eFlZHq2ViHiiUMKLw5KO2A3cAEzzotR1TGJetna2qGQncws1j56DhfWveTfMnkKSKSH_Whd9S0QidurnV7O5o233Uc6FgQB9IPdgv5XK8vUC6nUeBwMsj1oqsKpgE83Vh-ZRTPRFYV5m8f7sO6oBWio0wSzGD58KNY-3lzrD2ZEhQsjheaYGO0ihS2NEjb-_lYDN691KTC__CZd7IY7UucJ7aQXS4RJR9ObS2FnZUwFvqrAyMpVmqkm_eyOMiAjNqwR4d1eWaLXNqCmboXsCBxiqd28Fs5lFARCKMvKIukRqCPQGgGm6FAK-3iZBAwIe94OMytzAB",
       "domain": "mail.google.com",
       "path": "/mail/u/0",
       "expires": 1761489031664,
       "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "GMAIL_AT",
-      "value": "AF6bupNqQ5UlwlvjzR2sIp9zcaFxpGzrcQ",
-      "domain": "mail.google.com",
-      "path": "/mail/u/0",
-      "expires": null,
-      "secure": true,
       "httpOnly": false
     },
     {
