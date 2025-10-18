@@ -163,33 +163,6 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzVBLm1Sz8nOeKBCx3RIwy1LNH3sYZpK_uVcYWHPM6iKzteX7EOi0BHs0B0TawgqZE4ghg",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1792322149546,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzVKr3pCCNCl8wfCgt_1-Z2bMxq8sdPHydG9EPFKNSjnclfxWGRLwnme_DV22sLiyaw3I8Q",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1792322149546,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXw2FDDuYlSBeeJQqV6w6_lGD_RVcPG-1xtmVxCBBIScDZpxSEFwyFRH33HHCVd6vcl334",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1792322149546,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDTS",
       "value": "sidts-CjIBmkD5S76WmVfLUO4NK4KjtM3xfRJPORkaBMQRe6u4XXbRAtwRt-DIuKCOay_BUFYhQxAA",
       "domain": ".google.com",
@@ -204,6 +177,24 @@
       "domain": ".google.com",
       "path": "/",
       "expires": 1792322150592,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzWGzP5fANRuhuvWwnchmH1BSTSllvJwsrRo8hp2arkpyMfZdGY8fhcsijadjnnMOjYMpdg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1792322259864,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzUu6I9ScyGyxAuiY_UuJtSPG3R9yoIk-FAt4xpYJsoruDiAemIZ7W5ZPGS56Vn8sTmvIsA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1792322259864,
       "secure": 1,
       "httpOnly": false
     },
@@ -286,6 +277,15 @@
       "path": "/",
       "expires": 1761650141827,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Host-GMAIL_SCH",
+      "value": "nsl",
+      "domain": "mail.google.com",
+      "path": "/",
+      "expires": null,
+      "secure": true,
       "httpOnly": false
     },
     {
