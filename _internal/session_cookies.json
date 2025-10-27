@@ -190,21 +190,30 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzXc0xIF7LaBCv6lpN4OOZOEXpK4K2fM3b08nmLdu8RvH3PQmJb28PtEYOpfVFyZCBkeYQ",
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzVGbkG9LxjBUym-KjrHSEuZicF-AWlNcTG8DEgQE9kx5TauQI0tJRelMmWzCAmr9aQ3x88",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1793059696653,
-      "secure": 0,
+      "expires": 1793059808649,
+      "secure": 1,
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzXjVrw1FkJDaS9DbXsy9x56-MaDjpVzKZcAjhlCF96iB3mDWEdoEnWYZVQRepRPzO8nDHE",
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzWG2Dpcf0Sg0BqqjR7XMPzsmqsxyUOs-kBtIt5ByyvbW2t0MnupMqrEmhuvpfKQb00ewDU",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1793059696653,
+      "expires": 1793059808649,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzWv5iv_HTAZY4lenqaXnaISUvSeOPN9NgzqO0CQILmPwUWb2bNhaUQEWD8g_R5h9RSMAw",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1793059822803,
+      "secure": 0,
       "httpOnly": false
     },
     {
@@ -289,12 +298,12 @@
       "httpOnly": false
     },
     {
-      "name": "COMPASS",
-      "value": "appsfrontendserver=CgAQ9cXMxwYaegAJa4lXeRXySA7dNSddntrAjJM4nFiG7r67Y64ehvIXAbKIfZWlwpgS-1epw8UacD0N-4pnKDqgEnP8o_AQGlJDGeo0P5mVVQcT5_HpbE7-tPQlXTLaTij55uMgv4_yp848NYCZ8Xt3cJ5qBilzOBAMyWL82KwtVlPTIAEwAQ:gmail_ps=CrMBAAlriVenYIK7xbK-QlobaLbN5cWiVtlCg5uqDT_IuyFI0fXe8pjNZqsfEpAGuFVKCOQrMX7R7UTJs67ciQrgDcNYnKm-jKrxj6edQL795DC4PVCIUJboCwF2n-vbbHNRiE-WrvWzyauwihKhgd0LRstP6KLGC5M_Z4ErVqZb-u7eK2r0VIvmy3v-Lh_UlkRmZtBZKYY4rW7tbvXe9N6su_D4Glxstudxo9oQe8j_UlNCT9oQztr2xwYa7AEACWuJV7dZTeLBxQYuBLFt5FUXBDwEAVhrF06XP9c9KZd4X1e41EcpPMRusz4-vYz8EXvS7AuHyx8hdZfZZGLCBnmJ6ZVYMVxsDZkaAPiBBNTbzEyjzP9AL8hSZyCd-AECCeVISv2HSxSEV7ARXaLKIxkJa3sQlzwEoTKfZu5UAWbNIdVz3LQRhZ0zuwRh5nyaGgUIzM8zj_byAqKE1RdEIgdcXt1yIZ74MFVSHTdj23RPivvmkBlVmd2Z1Ho2_VJOKTFWjaaSR0jQDN5FMcWQczBsQFHpY2Sf4CJq3vd0dwMulUGn3sfsv2S96zAB",
+      "name": "__Host-GMAIL_SCH",
+      "value": "nsl",
       "domain": "mail.google.com",
-      "path": "/mail",
-      "expires": 1762232670569,
-      "secure": 1,
+      "path": "/",
+      "expires": null,
+      "secure": true,
       "httpOnly": false
     },
     {
@@ -307,11 +316,29 @@
       "httpOnly": false
     },
     {
+      "name": "GMAIL_AT",
+      "value": "AF6bupNqQ5UlwlvjzR2sIp9zcaFxpGzrcQ",
+      "domain": "mail.google.com",
+      "path": "/mail/u/0",
+      "expires": null,
+      "secure": true,
+      "httpOnly": false
+    },
+    {
       "name": "COMPASS",
       "value": "bigtop-sync=Cp0BAAlriVfh2g6iPf929C0cptElj6FAhenGeRSwnT7cVMOKBTOeiGimB4YQg6cCx_s0nh2SKAO4IjYEP-b_N-FRm9KL_mrSaD5RsO32Zeyj57_3OuEOq1OaqhFzxzQctvRqosIRI2ECEisAE9if6ImlMaWTsQ7t6omAhPE5dMYyyRWaHJTP02Rxgi9NlZsTAwF_rQ_CfveXK06331MzGxDNnIDIBhrWAQAJa4lXlRB58t6AYM85wLfX30XsmWfHU0XWWqiyAc9gbblEdXwPISdyadxcBydTv2Uh7D3mGDOpzsYvGGMjtsTtFPhsQIU3mhe2ZMRBsTw6KXSJgZgKpk5RSYNoyh4gC8Kd93VC84tJErXfdNcQC6DKnHRgl_iuQUPPuCRLxk_PeIiUnCXp8-XwUgJQ_XRzKEEIJ13FuNTvuAYJqMvqtG4iGjaLQyf9HlWmizbfp1LTjWmTSew2m3qFNm8xTOKe3yk9WoioYvOV5gV_Gym0jP4AVKv_6yMwAQ",
       "domain": "mail.google.com",
       "path": "/sync/u/0",
       "expires": 1762387690400,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "COMPASS",
+      "value": "appsfrontendserver=CgAQ9cXMxwYaegAJa4lXeRXySA7dNSddntrAjJM4nFiG7r67Y64ehvIXAbKIfZWlwpgS-1epw8UacD0N-4pnKDqgEnP8o_AQGlJDGeo0P5mVVQcT5_HpbE7-tPQlXTLaTij55uMgv4_yp848NYCZ8Xt3cJ5qBilzOBAMyWL82KwtVlPTIAEwAQ:gmail_ps=CrMBAAlriVenYIK7xbK-QlobaLbN5cWiVtlCg5uqDT_IuyFI0fXe8pjNZqsfEpAGuFVKCOQrMX7R7UTJs67ciQrgDcNYnKm-jKrxj6edQL795DC4PVCIUJboCwF2n-vbbHNRiE-WrvWzyauwihKhgd0LRstP6KLGC5M_Z4ErVqZb-u7eK2r0VIvmy3v-Lh_UlkRmZtBZKYY4rW7tbvXe9N6su_D4Glxstudxo9oQe8j_UlNCT9oQn42AyAYa7AEACWuJV7dZTeLBxQYuBLFt5FUXBDwEAVhrF06XP9c9KZd4X1e41EcpPMRusz4-vYz8EXvS7AuHyx8hdZfZZGLCBnmJ6ZVYMVxsDZkaAPiBBNTbzEyjzP9AL8hSZyCd-AECCeVISv2HSxSEV7ARXaLKIxkJa3sQlzwEoTKfZu5UAWbNIdVz3LQRhZ0zuwRh5nyaGgUIzM8zj_byAqKE1RdEIgdcXt1yIZ74MFVSHTdj23RPivvmkBlVmd2Z1Ho2_VJOKTFWjaaSR0jQDN5FMcWQczBsQFHpY2Sf4CJq3vd0dwMulUGn3sfsv2S96zAB",
+      "domain": "mail.google.com",
+      "path": "/mail",
+      "expires": 1762387703585,
       "secure": 1,
       "httpOnly": false
     },
