@@ -190,30 +190,21 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzUtY-RRpLYtPqE60ixTcMpp0f-I4LrqsTXtHaz4OJQ3r72bhMDtQPi9rEvvdwCaDdSrSA",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1793533536275,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzX6604GRcAxBAHyBBdXzsE5iT5iJIizisOAkWAjAifSFwaLju0XypYCMXMU4TmqD0lj3dM",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1793533536275,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXeXy9t6wTx5AjK-bK6X7Ng-JdJeSky4JetMPde7wU9C3XUC-mvF_ZYZ8zs8D7PVcTsMFg",
+      "value": "AKEyXzXRG3hcqRifyEssMg2JnyRDBNQtpDq_0QtEqzYC9FQb9vPl4cv44wR5qX4-eQk4CIo8I8Q",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1793533536275,
+      "expires": 1793533584706,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzUEYxMQ78CtJ40Uq852mizrsyHLSWvsPfw0ZxJeUfhwwS_OELXhyBqyuLe_n56VQFhwwQ",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1793533590808,
+      "secure": 0,
       "httpOnly": false
     },
     {
@@ -298,12 +289,12 @@
       "httpOnly": false
     },
     {
-      "name": "COMPASS",
-      "value": "appsfrontendserver=CgAQ9cXMxwYaegAJa4lXeRXySA7dNSddntrAjJM4nFiG7r67Y64ehvIXAbKIfZWlwpgS-1epw8UacD0N-4pnKDqgEnP8o_AQGlJDGeo0P5mVVQcT5_HpbE7-tPQlXTLaTij55uMgv4_yp848NYCZ8Xt3cJ5qBilzOBAMyWL82KwtVlPTIAEwAQ:gmail_ps=CrMBAAlriVenYIK7xbK-QlobaLbN5cWiVtlCg5uqDT_IuyFI0fXe8pjNZqsfEpAGuFVKCOQrMX7R7UTJs67ciQrgDcNYnKm-jKrxj6edQL795DC4PVCIUJboCwF2n-vbbHNRiE-WrvWzyauwihKhgd0LRstP6KLGC5M_Z4ErVqZb-u7eK2r0VIvmy3v-Lh_UlkRmZtBZKYY4rW7tbvXe9N6su_D4Glxstudxo9oQe8j_UlNCT9oQ1cWNyAYa7AEACWuJV7dZTeLBxQYuBLFt5FUXBDwEAVhrF06XP9c9KZd4X1e41EcpPMRusz4-vYz8EXvS7AuHyx8hdZfZZGLCBnmJ6ZVYMVxsDZkaAPiBBNTbzEyjzP9AL8hSZyCd-AECCeVISv2HSxSEV7ARXaLKIxkJa3sQlzwEoTKfZu5UAWbNIdVz3LQRhZ0zuwRh5nyaGgUIzM8zj_byAqKE1RdEIgdcXt1yIZ74MFVSHTdj23RPivvmkBlVmd2Z1Ho2_VJOKTFWjaaSR0jQDN5FMcWQczBsQFHpY2Sf4CJq3vd0dwMulUGn3sfsv2S96zAB",
+      "name": "__Host-GMAIL_SCH",
+      "value": "nsl",
       "domain": "mail.google.com",
-      "path": "/mail",
-      "expires": 1762607902218,
-      "secure": 1,
+      "path": "/",
+      "expires": null,
+      "secure": true,
       "httpOnly": false
     },
     {
@@ -330,6 +321,15 @@
       "domain": "mail.google.com",
       "path": "/sync/u/0",
       "expires": 1762861533650,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "COMPASS",
+      "value": "appsfrontendserver=CgAQ9cXMxwYaegAJa4lXeRXySA7dNSddntrAjJM4nFiG7r67Y64ehvIXAbKIfZWlwpgS-1epw8UacD0N-4pnKDqgEnP8o_AQGlJDGeo0P5mVVQcT5_HpbE7-tPQlXTLaTij55uMgv4_yp848NYCZ8Xt3cJ5qBilzOBAMyWL82KwtVlPTIAEwAQ:gmail_ps=CrMBAAlriVenYIK7xbK-QlobaLbN5cWiVtlCg5uqDT_IuyFI0fXe8pjNZqsfEpAGuFVKCOQrMX7R7UTJs67ciQrgDcNYnKm-jKrxj6edQL795DC4PVCIUJboCwF2n-vbbHNRiE-WrvWzyauwihKhgd0LRstP6KLGC5M_Z4ErVqZb-u7eK2r0VIvmy3v-Lh_UlkRmZtBZKYY4rW7tbvXe9N6su_D4Glxstudxo9oQe8j_UlNCT9oQ_5CdyAYa7AEACWuJV7dZTeLBxQYuBLFt5FUXBDwEAVhrF06XP9c9KZd4X1e41EcpPMRusz4-vYz8EXvS7AuHyx8hdZfZZGLCBnmJ6ZVYMVxsDZkaAPiBBNTbzEyjzP9AL8hSZyCd-AECCeVISv2HSxSEV7ARXaLKIxkJa3sQlzwEoTKfZu5UAWbNIdVz3LQRhZ0zuwRh5nyaGgUIzM8zj_byAqKE1RdEIgdcXt1yIZ74MFVSHTdj23RPivvmkBlVmd2Z1Ho2_VJOKTFWjaaSR0jQDN5FMcWQczBsQFHpY2Sf4CJq3vd0dwMulUGn3sfsv2S96zAB",
+      "domain": "mail.google.com",
+      "path": "/mail",
+      "expires": 1762861549824,
       "secure": 1,
       "httpOnly": false
     },
