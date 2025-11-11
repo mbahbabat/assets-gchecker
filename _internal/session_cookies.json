@@ -172,39 +172,48 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjIBwQ9iI_AI6elEcbzN21bUxrkUGQR5waqeyHL9Kt0Zj6DxxMEONTEkbtX6PbEVAobQaRAA",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1794415665416,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjIBwQ9iI_AI6elEcbzN21bUxrkUGQR5waqeyHL9Kt0Zj6DxxMEONTEkbtX6PbEVAobQaRAA",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1794415665416,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzVRRR8sTs_1730ptGpygr-D1BrjKnlVp2RHFDtvTkAZCTaqb6ZoBtKWEcrOzdfNW5GP--k",
+      "value": "AKEyXzVxLvKv1KaxKvifv6WVqVtUU5DPAayKxIwLcDN-AKZpZ22KfG2ydDXyN_ZKwOSHKoUPxW0",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1794415665416,
+      "expires": 1794416266097,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXoVlyZUK14M8npvp72zHC52j_PSEinm_eKDhWmcaEKq3TR40VOnEf0-9u-071LZv8g7-U",
+      "value": "AKEyXzUVbOs4BNnUX9B_sCeZCKqtivl0qjJiYL0zeq_xLr6Ez1uI_BVEe_AL2C7FzfG0QGaOqVc",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1794415665416,
+      "expires": 1794416266097,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-1PSIDTS",
+      "value": "sidts-CjIBwQ9iI1nQL88q3tCBdAKErIT0XizaSbwImJjOB7QOVhNLRbOtF8l-8_4a_Cwl2cqV3RAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1794416266539,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDTS",
+      "value": "sidts-CjIBwQ9iI1nQL88q3tCBdAKErIT0XizaSbwImJjOB7QOVhNLRbOtF8l-8_4a_Cwl2cqV3RAA",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1794416266539,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzW2Ld7dH7xXPf5NAvhCkhR2UXGgjI4F9rZ4TG7qFP9yvDapGdnE5Y6ESUB0OnwNwTC48g",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1794416266539,
+      "secure": 0,
       "httpOnly": false
     },
     {
@@ -353,10 +362,10 @@
     },
     {
       "name": "COMPASS",
-      "value": "drive=CgAQ1dHNyAYaswEACWuJVywmsCINBELW7p1Gd_bQ9AVcl4aBhkxtO1Lt3kqVBzzZGJVmLJS5HsE5JfqoUcWWW-S-oHlOD0GXA31w4YWYDAPyPpg1PB3xqgjINs_Egx055ohsL6chEIiIw5g48sMyrg_eiaBVx9NB3EAt6D-efUWOPGO8nslSvi00Kh9IZofxqaY3VejO2KI-uQeSCiwg-ElPHnd3zWY3Bobbe0cwGX11_V0JJcTlQqcbF6xrMTAB",
+      "value": "drive=CgAQ5u3NyAYaswEACWuJVywmsCINBELW7p1Gd_bQ9AVcl4aBhkxtO1Lt3kqVBzzZGJVmLJS5HsE5JfqoUcWWW-S-oHlOD0GXA31w4YWYDAPyPpg1PB3xqgjINs_Egx055ohsL6chEIiIw5g48sMyrg_eiaBVx9NB3EAt6D-efUWOPGO8nslSvi00Kh9IZofxqaY3VejO2KI-uQeSCiwg-ElPHnd3zWY3Bobbe0cwGX11_V0JJcTlQqcbF6xrMTAB",
       "domain": "drive.google.com",
       "path": "/drive",
-      "expires": 1763740102199,
+      "expires": 1763743703192,
       "secure": 1,
       "httpOnly": false
     },
