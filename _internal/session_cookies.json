@@ -146,46 +146,37 @@
     },
     {
       "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjIBflaCdeYBK9SgpYeCF6W0TesTSyBf0rKI2ntkZgZ93S6VwJ_wogugxJv-nutSMFcynxAA",
+      "value": "sidts-CjIBflaCdUKkVMbbNg26O9YjpiPUf4nkV-G3WWHe7BJgmXKB-HMV90z0wrCtTqSTzcLBPBAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1799091303541,
+      "expires": 1799091904325,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjIBflaCdeYBK9SgpYeCF6W0TesTSyBf0rKI2ntkZgZ93S6VwJ_wogugxJv-nutSMFcynxAA",
+      "value": "sidts-CjIBflaCdUKkVMbbNg26O9YjpiPUf4nkV-G3WWHe7BJgmXKB-HMV90z0wrCtTqSTzcLBPBAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1799091303542,
+      "expires": 1799091904325,
       "secure": 1,
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzU_Fvuep03NLTOwGb-Jnuh9B7TJcpzvXVJYTLkU_kR9mcDXq5xfMzw9as1juJ3KdJK4mlc",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1799091306877,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzV5glgDHz8SoHyx66WIqDQEfR25x8p-ecGG0wdGgyGGrbmahFxvLPGM4DCg7WLGOJ3-tH87",
+      "value": "AKEyXzXJqBZLuaKf_TncOrllOyRtSGVKhW0ZKGZPIHYE88Mmg9QjY5hoDjQXHWxmfc64DjzDK_1E",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1799091306878,
+      "expires": 1799091936966,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzWMWfLzmjPmYNpXedT6cnw3jAoh6hCeneHiNvzLBWgKAH-9HcYiMMHom6zaWQ6Q3PIbmF4X",
+      "value": "AKEyXzU419nDOXzIvJhkrxLsik7Cdicto05S1jYx20yWoEjgSw2-rWh-dOqRbQ3N5me3Ah6yJqo-",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1799091306878,
+      "expires": 1799091936967,
       "secure": 1,
       "httpOnly": false
     },
@@ -650,19 +641,19 @@
     },
     {
       "name": "_ga_BF8Q35BMLM",
-      "value": "GS2.1.s1767550869$o6$g1$t1767555013$j60$l0$h0",
+      "value": "GS2.1.s1767550869$o6$g1$t1767555602$j60$l0$h0",
       "domain": ".gemini.google.com",
       "path": "/",
-      "expires": 1802115013608,
+      "expires": 1802115602147,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "_ga_WC57KJ50ZZ",
-      "value": "GS2.1.s1767550767$o6$g1$t1767555223$j60$l0$h0",
+      "value": "GS2.1.s1767550767$o6$g1$t1767555657$j5$l0$h0",
       "domain": ".gemini.google.com",
       "path": "/",
-      "expires": 1802115223153,
+      "expires": 1802115657517,
       "secure": 0,
       "httpOnly": false
     },
