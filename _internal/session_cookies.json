@@ -154,29 +154,20 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzVaVIvAdUOZZMRVNTKjYuwlRG1o4B1L48lfgznud33BKVxv4ZHQD--AZqlO-z32HkDCYQ",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1810557554662,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzXh1HRTj88_572eU98P6X0L1bSMfR_zy8rtxeGroE8dCjzAL1WXIXSlM-qtOUbQzCjdlxs",
+      "value": "AKEyXzXSCRD3-07-l4EZaktVAb89M6iWuNtXaZLblJBY61rTA_WPHVjE0iW5g-mYixsd98RLIaI",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810557554662,
+      "expires": 1810562822052,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzVARZtYug071w0sggLw2M1uzydspm-tG7zj9z9CQ_slz65cR_yrR2FB5kj9b7poBHucyOA",
+      "value": "AKEyXzVqmbJ35oIW_lHYs6jlD6eClQTD7mqNFfK9RDpfdKiOONaqlLl-evCvLOP05_FKAFBW1lY",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810557554662,
+      "expires": 1810562822052,
       "secure": 1,
       "httpOnly": false
     },
@@ -195,42 +186,6 @@
       "domain": "translate.google.com",
       "path": "/",
       "expires": 1779589918000,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "OTZ",
-      "value": "8564635_28_28__28_",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1778774073000,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "LSID",
-      "value": "s.ID|s.youtube:g.a0008wiYnCZoTtIFFlspMIg393x030NG4UKzxwK8FJ3_nGlFjIU77lYZ8Y3aQ3zih0xSCiQ2dQACgYKARwSARISFQHGX2MiveswxZu4GRAKQUR1EBg-9hoVAUF8yKqoQDvArOrDZhi4UPnUWYhB0076",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1810745728097,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Host-1PLSID",
-      "value": "s.ID|s.youtube:g.a0008wiYnCZoTtIFFlspMIg393x030NG4UKzxwK8FJ3_nGlFjIU7eotR_R88kAjW1z7rzuyIwgACgYKATkSARISFQHGX2Mija5QF1Ugk8jBEXrTqf0gmxoVAUF8yKp7UqFLXsJq8ObtVF6ZO8Dq0076",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1810745728098,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Host-3PLSID",
-      "value": "s.ID|s.youtube:g.a0008wiYnCZoTtIFFlspMIg393x030NG4UKzxwK8FJ3_nGlFjIU7Jx7SG-YB03vfyq316IUYcwACgYKAYwSARISFQHGX2Mio1ItdqaLNr7VLl8eRH0oihoVAUF8yKpz6hhK937lZBEyVGuyDOGV0076",
-      "domain": "accounts.google.com",
-      "path": "/",
-      "expires": 1810745728099,
       "secure": 1,
       "httpOnly": false
     },
@@ -254,10 +209,46 @@
     },
     {
       "name": "__Host-GAPS",
-      "value": "1:pb6-uVGX0o3EZXGyKzd130burHJ1HQ:d3rMn5Mq7kAGNpNE",
+      "value": "1:nv4DMcxxLBLYO7p27f-Q6Kw-ApLsDMR16LFAZk3dohLQRyMuGB4-SXXFX2S3LxrG8My9qiF1C2dmxqv-Gar-7JFGXiLtxg:NtCb_7-SPXX4g4SV",
       "domain": "accounts.google.com",
       "path": "/",
-      "expires": 1813202935806,
+      "expires": 1813586813246,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "LSID",
+      "value": "s.ID|s.youtube:g.a000-AiYnHQkAn4-jPvOkjUA0X7sKQSs0aJlWXAw8LiSocJztExxa-p6B4wNVAaUMe7JNEPcaQACgYKAYwSARISFQHGX2MixROe4M6tZGmf3qwUaG9ypBoVAUF8yKqYAZOKThGq3ySWNE2L8m1Y0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1813586813246,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Host-1PLSID",
+      "value": "s.ID|s.youtube:g.a000-AiYnHQkAn4-jPvOkjUA0X7sKQSs0aJlWXAw8LiSocJztExxWltUOrZIMluw2ABMa5l-NgACgYKAfASARISFQHGX2Mi4BNZ4o0DUYpAk8SYOVR-FBoVAUF8yKosbh-wTEooEBkCdzpYDKPW0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1813586813246,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Host-3PLSID",
+      "value": "s.ID|s.youtube:g.a000-AiYnHQkAn4-jPvOkjUA0X7sKQSs0aJlWXAw8LiSocJztExx1MsWPJCQdu1VmWDMKm7voQACgYKAZASARISFQHGX2MinGMY4Knafh56oFRLINCv3RoVAUF8yKpnqeFXq3tGs8Qttr8sE0aY0076",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1813586813246,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "OTZ",
+      "value": "8612047_28_28__28_",
+      "domain": "accounts.google.com",
+      "path": "/",
+      "expires": 1781618814000,
       "secure": 1,
       "httpOnly": false
     },
