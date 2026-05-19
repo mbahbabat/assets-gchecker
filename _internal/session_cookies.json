@@ -137,46 +137,46 @@
     },
     {
       "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjEBhkeRdyLVqvlBSOO5u2nPngbS2hX_e-jWZoC2_2K18DikKh4I0Sj32Y2_ru9Hu3aNEAA",
+      "value": "sidts-CjEBhkeRd3MyxMmqZ4wGkhdPjWR6nXc3VbhvseaL-i-aLiKfythzr7vLwtW8bZumokxUEAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810740523476,
+      "expires": 1810741124871,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjEBhkeRdyLVqvlBSOO5u2nPngbS2hX_e-jWZoC2_2K18DikKh4I0Sj32Y2_ru9Hu3aNEAA",
+      "value": "sidts-CjEBhkeRd3MyxMmqZ4wGkhdPjWR6nXc3VbhvseaL-i-aLiKfythzr7vLwtW8bZumokxUEAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810740523476,
+      "expires": 1810741124871,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "SIDCC",
-      "value": "AKEyXzWpL52d50sfyrlXiZ63aL_eDmWCaadmjGGyQfwPPkpkkIUbXVoMLzBcKelhazUQyzLUXg",
+      "value": "AKEyXzVXjspn4lHjWDcFhLHPbDSTNFJeH6G7Ugmx8MnUpF-vaKxEjz__Df5SJUs0snZ8Wl_4PA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810740523476,
+      "expires": 1810741124881,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzUXezj5b3qBtePXdpvP8YHrbSGj17HN5_a3UGGa32G8U5QM8gLrtrXcON3fKAZcTCAu-tA",
+      "value": "AKEyXzXoj3prEc8IgdErG0cDnf8NBr4UZgRU6mTRzwZGwExToIPfOE5i3MpmCV7b90M_QqmUtzY",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810740523476,
+      "expires": 1810741124881,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzWDqpWwKJb_Pgc-z1Why6g3orQMJsP0SgP6x_RvQD8cZxgrkJ1yeaxbbpWSPGS7Kpv7n2k",
+      "value": "AKEyXzUsHof1xBetf1hB9l2PtmJq7ysWwW-4amFg-GCqdOLsBC_JFNocknKXUKL8Z2fb_7vNUY0",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1810740523476,
+      "expires": 1810741124881,
       "secure": 1,
       "httpOnly": false
     },
@@ -322,15 +322,6 @@
       "path": "/",
       "expires": 1813602540674,
       "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "NID",
-      "value": "531=EKUhO00vzWFkMKS_8LGeVkS7BcwMJWXCPWP5Q9qk5DUPq-zzEs-OiV2NYvP_ES1ax2OndMyaBZ2E_THR7Sb8tyzpFXFoB3sESRZSKFVrCKCbVI2ALquI-3KwrI3IMfSfZC9zUGwk3IjCaBdxHQku6c5ApPLjpUCp7XHaBkFU68xw_zIhq7DgIfUDx2aZBjgBaMRIqU4",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1794963408888,
-      "secure": 1,
       "httpOnly": false
     },
     {
