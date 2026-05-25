@@ -11,10 +11,10 @@
     },
     {
       "name": "NID",
-      "value": "531=Ox8jjlRKuYuPzNu3FiVmfHNDabqpX6s8iA4-qMmyoDFSuF58XosUesWpuSYepLapfyh8tZncgeut4Snwq4VHF4Ie8Jgr1TdzXpbQT7sq1IYruoO2ht8_Yqze6BXOMJE6CmfutBBKq6WqfgiACSQGRXA_9eDKX95f9WcwFfF1ni2jOmu2u_6Ow-0S_KTvBBQhqKV2cXelIaE68jgU6NQ0DRmeaLvmEYbOGK_hKmENb2L_Bwni6wL662gA10yWELyBX_ccp0ZsbbBUuP5kzx2jK7LHJ9kbd84itlWnlmRRKJUQ1V800yXTp1QewhyoBMAxqPHmxv_vPpE1nq45fLiScutc3fw5L5iwo855PGM",
+      "value": "531=f-MB7QgqK30cMi86meYI1_VQxBSonDsbiBHcrD4davYMgSGtyXwcknQp61rGP94xcLV5Crol1O1qz2P5XGijW8O65vvN-pBdN7JOHy-z3Sj4uynjFpHpNYdEWIc46R1x4ENAQscq02fAqnG78-KAk4JCoF4Kh5vozTZQ-7cSwl3jt-40_ABUD_FBysqpzXJh_rNC9ZI",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1795542857313,
+      "expires": 1795550912244,
       "secure": 1,
       "httpOnly": false
     },
@@ -254,10 +254,10 @@
     },
     {
       "name": "__Host-GAPS",
-      "value": "1:knell0B7oFRrznSgp0rnwu2BgEWhZhcjVFoGuPeJBPxc6X5CdoRzogCphaB0732Ml8jQC7Uhhllwv2_pV5yvhvxGZpj91g:QKaobzUPZFjM5u3T",
+      "value": "1:2C3dKzAbD0gTAwluJAqUMFqxIonsgg:kgpcu1xndVPIQmNJ",
       "domain": "accounts.google.com",
       "path": "/",
-      "expires": 1814289932138,
+      "expires": 1814299712244,
       "secure": 1,
       "httpOnly": false
     },
@@ -439,6 +439,15 @@
       "path": "/",
       "expires": 1779732258000,
       "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "NID",
+      "value": "531=eJGtFeAsh5mJzaWh5BJSeAIsJbzwX6k_apkDB1OKejnJ9hq0LmRKL3dt3FVcM3av0qRN6rlWpPqKc9hGrX1RTy4RlICXBvPoJhMVsS64NAUmrUtXQxdiXaDowiSLykGjjA5TZogJSJHYzTeMT0TQo7bWAqyjkvtbLkNdX3Efp8Q1_vOcBihXFXwCGvi1Uil4bsiTjjU",
+      "domain": ".google.com.sg",
+      "path": "/",
+      "expires": 1795550914819,
+      "secure": 1,
       "httpOnly": false
     }
   ]
