@@ -172,6 +172,15 @@
       "httpOnly": false
     },
     {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzXRaVKmH2sTJS_RFjS3tmT48UBjQEImGw2l7kDhQaOT8tFC4lXqUgEAJRTf615s8lCZ62o",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1811502447214,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
       "name": "SNID",
       "value": "AEDUgYbGcGvxIXI2IhLOWRIinIFLwiOO8dxRXgFUsG-Jbtku2A-EpU0PBsvE23vcyn2W4ksmdJX10C7g9NbFFuS4bIIBKb0boaY",
       "domain": ".google.com",
