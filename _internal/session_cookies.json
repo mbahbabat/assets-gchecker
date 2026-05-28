@@ -154,29 +154,20 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzWgBlGyax35j0ls_hmbrjKbEkkC61QD9ePC0jSN3ak4I3H8d9qbTBhkqzwWJA0_k5qHqQ",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1811519723389,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzWHBNVMERNE0DW70HWqrTi1WIfpG1m2QRWpcjjMNOsdNAauMRoWrDDFDwT8o74cf1JFv5I",
+      "value": "AKEyXzVrQsNIkqnS6eMx58_TAYsUugbrSe1UZv5SNmUgkJKfUn68RxejMYjzJKIaS5JXIBOe8RE",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1811519723389,
+      "expires": 1811520319336,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzUZPW65RgijMjfQtxjL0Q39pWfw9eE76MRHPrn66si_XEIcOpxCzYgII34dre1ZpMuVWfQ",
+      "value": "AKEyXzVl7WjD2P6gRLJXMcLIqcvPUK8gY7RiiqrFDH2KVHQ-acy9l2pnMfB6WuyN6vLQ2zXVQzg",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1811519723389,
+      "expires": 1811520319336,
       "secure": 1,
       "httpOnly": false
     },
@@ -343,15 +334,6 @@
       "httpOnly": false
     },
     {
-      "name": "_ga_RJSPDF5Y0Q",
-      "value": "GS2.1.s1779974826$o7$g0$t1779974826$j60$l0$h0",
-      "domain": ".aistudio.google.com",
-      "path": "/",
-      "expires": 1814534826834,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
       "name": "_ga",
       "value": "GA1.1.111283372.1779170582",
       "domain": ".aistudio.google.com",
@@ -361,11 +343,20 @@
       "httpOnly": false
     },
     {
-      "name": "_ga_P1DBVKWT6V",
-      "value": "GS2.1.s1779974826$o7$g0$t1779974826$j60$l0$h1385640346",
+      "name": "_ga_RJSPDF5Y0Q",
+      "value": "GS2.1.s1779984186$o8$g0$t1779984186$j60$l0$h0",
       "domain": ".aistudio.google.com",
       "path": "/",
-      "expires": 1814534826879,
+      "expires": 1814544186845,
+      "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "_ga_P1DBVKWT6V",
+      "value": "GS2.1.s1779984186$o8$g0$t1779984186$j60$l0$h1776091666",
+      "domain": ".aistudio.google.com",
+      "path": "/",
+      "expires": 1814544186868,
       "secure": 0,
       "httpOnly": false
     },
