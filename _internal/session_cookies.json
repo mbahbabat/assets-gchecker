@@ -154,20 +154,29 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzVX6vQYxL37ux9sYmMSzrVfBwRtw2k_tuGqSSvdHDNqZcpVfljz-_hXrHW0TojQg3SbcYw",
+      "name": "SIDCC",
+      "value": "AKEyXzXPTMQLVL61wIiJaqGaJMfErmdS6tqRpp2X2HufcOaf3lKzsCY1wHdEBVLUll9QFznW8g",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812037858561,
+      "expires": 1812037905542,
+      "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzVutKJtxTIhJF_yCZqeD5gUJvMHXGvaqaE5RqGFLnRuDjD4tB8fDP_KaoQCMS-xBLfurH8",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812037905542,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXXVVjIbvrOyMsrNazqRP62mBDFtiNazZcWF9u-E2F_kxhBeLBb6ISC6kEdK7xCJQiuOwk",
+      "value": "AKEyXzVqVh7MrXLx13E03xD0Mv-5xP_Z13Pt7jActSv8R0ZxFiOBNy7LNEx8d9TN_g99kJHz16U",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812037858561,
+      "expires": 1812037905542,
       "secure": 1,
       "httpOnly": false
     },
@@ -547,6 +556,15 @@
       "path": "/",
       "expires": 1815061847741,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Host-GMAIL_SCH",
+      "value": "nsl",
+      "domain": "mail.google.com",
+      "path": "/",
+      "expires": null,
+      "secure": true,
       "httpOnly": false
     },
     {
