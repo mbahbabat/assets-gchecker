@@ -163,21 +163,30 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzUwXZaa0dMXMHoaW9BZfn7jl2yTwRqyLfHfy5YCVo6DIeZp3CmBu9j6HLS_oPVydauOQ6Y",
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzXcP6xImY18MvolxGIEaVGdAb94HtkpqlRdCe9YkZVs_SaF8NPLsS-Lr6hiV-V6n5xm6b0u",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812218455098,
-      "secure": 0,
+      "expires": 1812218623896,
+      "secure": 1,
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzUdgMHP-pv9MVUbUcX1KYe1eAlhW2A1ukcvPNOVbbWjqnI5xhVZHn_-mTdO_0kLn3vUQgR1",
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzUhKLQds2SccGHZXLWFHhuyEFznWL8UT6jLsVSHK_n0RZc0lljpTfdZJ9mZoceUbCCEc0EZ",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812218455098,
+      "expires": 1812218623896,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzXbD8d-etvRzt3IUCkwNaTc77CthBZrq7RaL3LU4Q7XX8FMt4aOhUIRgCN-J2d3KK1OLdw",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812218623896,
+      "secure": 0,
       "httpOnly": false
     },
     {
@@ -636,96 +645,6 @@
       "domain": "photos.google.com",
       "path": "/",
       "expires": 1815203757069,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "SID",
-      "value": "g.a000-giiqHUYzT_jq17HGi3zVJfcSQ3Kuoxoe-dAJI9JsfAPk2bKM8q0xpnLlp23t8f2PReYTwACgYKAWISARESFQHGX2Miog8Fm1c_ByLCa5CaqFkEVRoVAUF8yKqhCRVvCw57PbNfXYvsRLQv0076",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-1PSID",
-      "value": "g.a000-giiqHUYzT_jq17HGi3zVJfcSQ3Kuoxoe-dAJI9JsfAPk2bKVrFzoqTUYjrZrPliLIIh1QACgYKAesSARESFQHGX2MiNRpHyTh-L8i6YLwcgGpdIRoVAUF8yKr264yP39V16jn51tzZ88IU0076",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-3PSID",
-      "value": "g.a000-giiqHUYzT_jq17HGi3zVJfcSQ3Kuoxoe-dAJI9JsfAPk2bKEiTA84iDRucGwYmZIDbQAwACgYKAcASARESFQHGX2Ming1nlcOoCGzjRDtNywqyrRoVAUF8yKo57It5dy1LkFhhlZJcG0jS0076",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "HSID",
-      "value": "Asob_WHSOu5YS0KRg",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "SSID",
-      "value": "ANuPIcIyRAqh18APd",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "APISID",
-      "value": "kxqyKRQvptID0a1V/Aiu5nWVkYKnOsFKrx",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "SAPISID",
-      "value": "w_9SaxEw3DjMTe4v/AXm7sI-V33x6j90Un",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-1PAPISID",
-      "value": "w_9SaxEw3DjMTe4v/AXm7sI-V33x6j90Un",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "__Secure-3PAPISID",
-      "value": "w_9SaxEw3DjMTe4v/AXm7sI-V33x6j90Un",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1815144657636,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "NID",
-      "value": "532=cgWjDFSY0kVKvDf2hdhjnO-GBDgVybHlSYtZ9p7aApFZGmdb_vpRIhXJeWGvdAtO8lrUSZcwG7NyKgGWPgw3o1huGFNI9o_zoFyB-rnqlU06yiYSruFPqA9JhZEEQvOFE6TQKxCj2Q5FI45hzX9T8BfZCI6RwZMhHnzdYws4cSjaRztG18BpwH93MYyJzzbqQYCYDQ",
-      "domain": ".google.com.sg",
-      "path": "/",
-      "expires": 1796436379716,
       "secure": 1,
       "httpOnly": false
     },
