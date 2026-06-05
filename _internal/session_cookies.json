@@ -163,21 +163,21 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzU3BFwdHLHaFItUqq9pRHEJcID_VPcwAI6C17-Uw-R6sXvEG5uhacT3yMd8n4EMoZb5IVY",
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzUo_6yRziu0hzgoGj1628d_4LUPg0sVEz7WvFQ5OY7AUAHb_9rnu8rQcKRcE_ZMTLpGriBe",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812202487882,
-      "secure": 0,
+      "expires": 1812202528815,
+      "secure": 1,
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzWZgHzTlYRfkei4AodFstH58rtMy00jhvI2-8FR_cNky0rdg9ILYeIqA0l_YFA8ErEGizs3",
+      "name": "SIDCC",
+      "value": "AKEyXzUjnVJWoubWeJwBglOgdt4V0qLTOgcZdQgHdXVOfs1fa71GkV_wYFd5D4tV-Bvt5igVhzE",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812202487882,
-      "secure": 1,
+      "expires": 1812202529512,
+      "secure": 0,
       "httpOnly": false
     },
     {
