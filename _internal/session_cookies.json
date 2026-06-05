@@ -163,21 +163,21 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXydK_QUVMXal9FMt1zBIiLElrNCoXJdFbCkR00yR8tLCenKlo1aaJI5eQaDtDScwAqLK3H",
+      "name": "SIDCC",
+      "value": "AKEyXzVNRIeTbeqRcXrcV3sZKq7MU-AhsZKJK-K9sx01tXTWqIHg86gbrQ1CY_CjHPMhhEIdKTQ",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812220627541,
-      "secure": 1,
+      "expires": 1812220714341,
+      "secure": 0,
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzXMTT4bxwJBqXVtJAlFNTAAQ9rDk5JYX4V3AheBrEuCCscRvF_z2jScE_LYBtj6TMP5jas",
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzWjcVAoPkpQqSBIrhgYwU-QKFPfLW8U9EHeawz3OEFvG1PinxolQy3at99-QRpYbGmkq4Wk",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812220627541,
-      "secure": 0,
+      "expires": 1812220714341,
+      "secure": 1,
       "httpOnly": false
     },
     {
@@ -187,6 +187,24 @@
       "path": "/verify",
       "expires": 1796476123659,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1-2.1745565283.1780684714",
+      "domain": ".google.com",
+      "path": "/finance",
+      "expires": 1815244713550,
+      "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "_ga_GYEF2DC8WG",
+      "value": "GS2.1-2.s1780684712$o1$g1$t1780684713$j59$l0$h0",
+      "domain": ".google.com",
+      "path": "/finance",
+      "expires": 1815244713557,
+      "secure": 0,
       "httpOnly": false
     },
     {
@@ -862,6 +880,15 @@
       "path": "/",
       "expires": 1780666522000,
       "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "OTZ",
+      "value": "8639679_28_28__28_",
+      "domain": "www.google.com",
+      "path": "/",
+      "expires": 1783276713000,
+      "secure": 1,
       "httpOnly": false
     }
   ]
