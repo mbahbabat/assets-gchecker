@@ -190,6 +190,15 @@
       "httpOnly": false
     },
     {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzW9iDL4pFXb5nFCgHZ6virXhDRmRGNKXzWG21khIhAWa77fp6xZ_oLRBp6cUMjM7489jiDM",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812228272993,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
       "name": "_ga",
       "value": "GA1.1-2.1745565283.1780684714",
       "domain": ".google.com",
