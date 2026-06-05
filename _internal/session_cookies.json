@@ -163,20 +163,29 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzX--ofKX9cN8E4nWlOc71pjbspBN_jDfuvswPHZgSGqd9x7v8YWoHJA-HAz2KWKEDpRpQ",
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzXs5R5frNGrTETWZXiKfbZV1oeL-IChHDa00a_TWbO4o5KNaHG8Ms1PDj9F2pEiu48aG38",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812183628774,
+      "expires": 1812183696100,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "SIDCC",
+      "value": "AKEyXzVpxd9i925iaxt3hZ9rJgfnjzShrmu_l-H-IJOvhH2Gne2CNE05upEDtRadBlRt-UXoNg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812183696100,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzWMhhrnLkdMtWylTtHml17sNq9CGElAJPJDXUOS1w3oPhJF29mbwVmKgW5W4pfksMvkIUg",
+      "value": "AKEyXzUARfVm-F8jaPSRjqe8ujrgvvmGiM43sILA57utNfX0W16Fl5WeKzIeBn2bWdevljwJT5I",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812183628774,
+      "expires": 1812183696100,
       "secure": 1,
       "httpOnly": false
     },
@@ -929,10 +938,10 @@
     },
     {
       "name": "COMPASS",
-      "value": "appsfrontendserver=CgAQpIuK0QYaegAJa4lX8TgAQKDb_fW9izIWMGo68aqmZcMQz2Unhyeb_oHM2-AVRPwqLIc3kvZEvNa-YTqvSu0Fx0U5RZyUX9td9XLCeS4GBcDA45AsCygRTCZL35w6VWc0vjpWd07U3dR833591FGJbrRMe9Ff2TDP_RTdY-SL6aJ4IAEwAQ:drive=CgAQyo2K0QYaswEACWuJV6Q_mecQijvv4RQ0e-C_EZcEzbtWEfQXlSNbilda_yUjHKo-Jee9Ch6BNxUhiLl8nmDJ3jRgx9VKQqevV2fK8UJg7UGtbE6wtsYUMiJ-EYjD_P68zk7evp90O1clDVwzUS6fXyOP0AwUUVEntDkMn_mHVjl_A28AV5YP4cfMhTrjh9eOEIK8LQRrQqxL6EqdRUX-JLpt9jxumcV2As7IKsNZh-F6j0s_wpfC5_YWHjAB",
+      "value": "appsfrontendserver=CgAQpIuK0QYaegAJa4lX8TgAQKDb_fW9izIWMGo68aqmZcMQz2Unhyeb_oHM2-AVRPwqLIc3kvZEvNa-YTqvSu0Fx0U5RZyUX9td9XLCeS4GBcDA45AsCygRTCZL35w6VWc0vjpWd07U3dR833591FGJbrRMe9Ff2TDP_RTdY-SL6aJ4IAEwAQ:drive=CgAQ5amK0QYaswEACWuJV6Q_mecQijvv4RQ0e-C_EZcEzbtWEfQXlSNbilda_yUjHKo-Jee9Ch6BNxUhiLl8nmDJ3jRgx9VKQqevV2fK8UJg7UGtbE6wtsYUMiJ-EYjD_P68zk7evp90O1clDVwzUS6fXyOP0AwUUVEntDkMn_mHVjl_A28AV5YP4cfMhTrjh9eOEIK8LQRrQqxL6EqdRUX-JLpt9jxumcV2As7IKsNZh-F6j0s_wpfC5_YWHjAB",
       "domain": "drive.google.com",
       "path": "/drive/u/1",
-      "expires": 1781508026641,
+      "expires": 1781511637353,
       "secure": 1,
       "httpOnly": false
     },
