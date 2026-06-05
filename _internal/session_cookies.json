@@ -163,21 +163,21 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzWYeN1B542DAzLbqM4yLH0fRvM2dc6Z8dpkBVIJw8KZ1R0PDXtlNxCw7nLCWqa8RRkmDA",
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzX0YZUQ9ZUM5n1P9n8Kp5QCE1rDPq_XM741CPpt39nhMR4byTpQnSTZpqbsB-V7MKQiOYw",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812179769496,
-      "secure": 0,
+      "expires": 1812179851461,
+      "secure": 1,
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzWQgE6p55Qt6EivcGoQ1eVm9vvcIqgO_gwJHvgwv-DsjXQWNzJTOXfnqRlblLn6UoGNYjg",
+      "name": "SIDCC",
+      "value": "AKEyXzVT0YQcyREpaYfqofYVPGMiJ68g1hZ4vihf404DxtuwuxI7u3XtPEaaMs3YPfZMdCxHtg",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812179769496,
-      "secure": 1,
+      "expires": 1812179851461,
+      "secure": 0,
       "httpOnly": false
     },
     {
@@ -924,6 +924,24 @@
       "domain": "photos.fife.usercontent.google.com",
       "path": "/",
       "expires": 1815203758802,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "OSID",
+      "value": "g.a000-wiiqMbTd5A6jS5RAE5Sn_wf8_H2xKyyfdUQnsrmw-IuvqLk3syxQS-yng_ylMLQSGSCggACgYKATsSARESFQHGX2MiaxcPIhpysH_AmTh9h32pTRoVAUF8yKpOrgOUgBL3Uj9ho0i65dn70076",
+      "domain": ".docs.google.com",
+      "path": "/",
+      "expires": 1815203797784,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-OSID",
+      "value": "g.a000-wiiqMbTd5A6jS5RAE5Sn_wf8_H2xKyyfdUQnsrmw-IuvqLk1PO7exTIE3JP-G4fiwfxuwACgYKAYYSARESFQHGX2Mi7l9LcNF3SKmziAiFyrADExoVAUF8yKpm2dq9eTI5kdL61igesN_A0076",
+      "domain": ".docs.google.com",
+      "path": "/",
+      "expires": 1815203797784,
       "secure": 1,
       "httpOnly": false
     },
