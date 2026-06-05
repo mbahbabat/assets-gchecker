@@ -136,15 +136,6 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXI8HULILfygcdaOO9i5d4aNpHkQJ3kM8Hzl_93TUc8VLiz0RwONti5GXZy9w1G7IccYg8",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1812160408963,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
       "name": "__Secure-1PSIDTS",
       "value": "sidts-CjIByojQU1QNeEg0E4lDiA2_mOAZGaFCwZrlwXEmDuVW-Ucfb_BvQKhW9MKRr20S4H73dhAA",
       "domain": ".google.com",
@@ -174,6 +165,15 @@
     {
       "name": "__Secure-1PSIDCC",
       "value": "AKEyXzUiFJ_rcGo6VMFcaTMMccZzazibJTghJ0FN_YpthS6njcF6-FDLEE3YmaGw_L7FoEobd2Q",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812161010790,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzXSFRVXYXVJE2OqjMOPaJSUNddPT1D9W9nlDPLsorC7UWFUqQKNk1tC3n-QpRsCy7AcJeU",
       "domain": ".google.com",
       "path": "/",
       "expires": 1812161010790,
@@ -731,10 +731,10 @@
     },
     {
       "name": "NID",
-      "value": "531=bTNBi_ZF7ZS4lzPSHOIR96fwOTOX36xI-tHxPwLMxp2DOS56iVlv8pJQMi27_pncOjKQ-D5j82YklQ0cY5bzrlP6Y9xsNcRcaxVvYbv8sKkP6bqM3qZUNlv7qVDPbzouLHXS94rmWltyDA-ny94WQJdJvG2zPd8hc5eABAfnlXeFQOWXX16tNL6GIe224GUUxtto8xBryKrUCgXyDx6Jp7mcLs5DvNRIz4blpLeIum8-2ynLOK9Gaf2uBaWAEWJZYycjMkhvNImbamtQdWBn3R4uy3aLVX1zlXtqbKzMOCPbBnQm50jx3lVqEouppwP_t-W_dMuWdbAcO1umvt4GtyjX1WSrf86lrpESI6FjS36L_HZSXOyd8dJKkOxY-MLfxIACmg03hEF_12x7rZ18rzJWUKM4f4kutEgTYBfkH5iZD28PgAmxwxO0K21IhffD8qXkA87icvBbEcfJE1BGJerstSF_LkKihUG0XbxMCXhRcSXExtz_RCXVW0TQv4-DbHIuxM4bPX_j0S1_z9CwFuKU6dfwC0K0BBiTQcwhDXpN39rjvfk9XSRFRo0KvnbuWVTj2Svptg6k5bxu61W6fIEsego6lqfX8Rrol3UDTbOjXR7THQxuxhUazpDpp_OC5uiMQ2nbmA",
+      "value": "532=cgWjDFSY0kVKvDf2hdhjnO-GBDgVybHlSYtZ9p7aApFZGmdb_vpRIhXJeWGvdAtO8lrUSZcwG7NyKgGWPgw3o1huGFNI9o_zoFyB-rnqlU06yiYSruFPqA9JhZEEQvOFE6TQKxCj2Q5FI45hzX9T8BfZCI6RwZMhHnzdYws4cSjaRztG18BpwH93MYyJzzbqQYCYDQ",
       "domain": ".google.com.sg",
       "path": "/",
-      "expires": 1796386863636,
+      "expires": 1796436379716,
       "secure": 1,
       "httpOnly": false
     },
