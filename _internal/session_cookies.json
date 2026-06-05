@@ -37,15 +37,6 @@
       "httpOnly": false
     },
     {
-      "name": "AEC",
-      "value": "AaJma5uZZ3mMm_q4CxtRYy4MlLMpUpm2d_lupbtSB30YqlF8ZF3rFEXjQsw",
-      "domain": ".google.com",
-      "path": "/",
-      "expires": 1791539418940,
-      "secure": 1,
-      "httpOnly": false
-    },
-    {
       "name": "SID",
       "value": "g.a000-giiqHUYzT_jq17HGi3zVJfcSQ3Kuoxoe-dAJI9JsfAPk2bKM8q0xpnLlp23t8f2PReYTwACgYKAWISARESFQHGX2Miog8Fm1c_ByLCa5CaqFkEVRoVAUF8yKqhCRVvCw57PbNfXYvsRLQv0076",
       "domain": ".google.com",
@@ -136,47 +127,65 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-STRP",
-      "value": "ANmZwa3X3Nsdez2E0y49vhMJDm18gJYDHaKOKzJrYSPf7dlR7Ju-06ixFyZ-T1DOGNq4BBEylbKJKMEgLxyM0xw1QWE9snCy7xI9",
+      "name": "AEC",
+      "value": "AaJma5trYr06X-S4Cvl5vkTYJ6d76-jz0aLiy8Qie5O9yUwofBw5XZRlavU",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1780666204701,
+      "expires": 1791539421029,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-STRP",
+      "value": "ANmZwa2z--h26403cfjlrGrE0FFFXR6dbkEmbR4r4XC2cP7C0AwOI3FJ9oGD1KXammNQsS7f-KY8sZqDqHmruYiYURyU1W0wPOKo",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1780685053384,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-1PSIDTS",
-      "value": "sidts-CjIByojQU68DUFV3cRyMaoCnCac0u6_8m989j9RszdYMjQIWBsC43qG_Bp2LRvaVkzwPJRAA",
+      "value": "sidts-CjIByojQU4euU19mn0FfKYLtJ5GHPNWycvwhkNvF6Lw9GEw4ZWX7oTg3wzuIy-AnfB8s5hAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812220170912,
+      "expires": 1812220771846,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDTS",
-      "value": "sidts-CjIByojQU68DUFV3cRyMaoCnCac0u6_8m989j9RszdYMjQIWBsC43qG_Bp2LRvaVkzwPJRAA",
+      "value": "sidts-CjIByojQU4euU19mn0FfKYLtJ5GHPNWycvwhkNvF6Lw9GEw4ZWX7oTg3wzuIy-AnfB8s5hAA",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812220170912,
+      "expires": 1812220771846,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzXU411knM52uRMrq7bszQX0GtObGV8MsvLGEU7wvv50lD1d-F6YTDsV-Ey4Chxs9J3gLi9_",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812220774557,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "SIDCC",
-      "value": "AKEyXzVNRIeTbeqRcXrcV3sZKq7MU-AhsZKJK-K9sx01tXTWqIHg86gbrQ1CY_CjHPMhhEIdKTQ",
+      "value": "AKEyXzXhFP2tt9w9zp1SwiRbrAON00Nk9B6qGwvj-BA14-sniJJTgBeYiBbt5_TpQnsF-gIj8p8",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812220714341,
+      "expires": 1812220774713,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzWjcVAoPkpQqSBIrhgYwU-QKFPfLW8U9EHeawz3OEFvG1PinxolQy3at99-QRpYbGmkq4Wk",
+      "value": "AKEyXzUm6zVYdjW9jaACE_lopOtUv9wi7lw4CN8XqnQnnEnBxA5V_fDO_FatU_jGCkhmNHY7XcKt",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812220714341,
+      "expires": 1812220774713,
       "secure": 1,
       "httpOnly": false
     },
@@ -200,19 +209,19 @@
     },
     {
       "name": "_ga_GYEF2DC8WG",
-      "value": "GS2.1-2.s1780684712$o1$g1$t1780684713$j59$l0$h0",
+      "value": "GS2.1-2.s1780684712$o1$g1$t1780684721$j51$l0$h0",
       "domain": ".google.com",
       "path": "/finance",
-      "expires": 1815244713557,
+      "expires": 1815244721694,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "OTZ",
-      "value": "8615903_28_28__28_",
+      "value": "8639680_28_28__28_",
       "domain": "translate.google.com",
       "path": "/",
-      "expires": 1781850162000,
+      "expires": 1783276774000,
       "secure": 1,
       "httpOnly": false
     },
@@ -889,6 +898,42 @@
       "path": "/",
       "expires": 1783276713000,
       "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "GN_PREF",
+      "value": "W251bGwsIkNBTVNEQWpDcjR6UkJoRHc1dVNOQVEiXQ__",
+      "domain": "news.google.com",
+      "path": "/",
+      "expires": 1796452736475,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "OTZ",
+      "value": "8639679_28_28__28_",
+      "domain": "news.google.com",
+      "path": "/",
+      "expires": 1783276738000,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.48323229.1780684738",
+      "domain": ".news.google.com",
+      "path": "/",
+      "expires": 1815244737618,
+      "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "_ga_SYGF1G18MM",
+      "value": "GS2.1.s1780684737$o1$g0$t1780684753$j44$l0$h0",
+      "domain": ".news.google.com",
+      "path": "/",
+      "expires": 1815244753397,
+      "secure": 0,
       "httpOnly": false
     }
   ]
