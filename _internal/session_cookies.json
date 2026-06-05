@@ -173,28 +173,28 @@
     },
     {
       "name": "SIDCC",
-      "value": "AKEyXzVliM1oQE_jyHioH1Pb3ktXcTZ_lUCFCn0sdP25Qh_3kd4c1aL6u5QbjqSaNE6C9K-yXz4",
+      "value": "AKEyXzVSnce_CvrRGEj4aNawdmTDD2uCF2246GHThoBcGJAD-8EuMAtr15EovMgoZglSZm7GPu4",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812224380295,
+      "expires": 1812224465401,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzU3XCQ4taigFyYwgwsGCrFr3-Bi3lAvI5FylupYIo27UlrHTtTRNrQSdcuZHKdwDsp5WYDM",
+      "value": "AKEyXzVYujeWWutHiJkdhFZ5f6n-zfYfTdPN4_l1kjAE1_yXgSLa7QfdvPs0GHmWXScJHYOGsGMH",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812224380295,
+      "expires": 1812224465401,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzVBCfCBV8uvaY2kA_w2ffdksSIy2ZPNf-bSuBLukOXDXFuv-VI0tObzyAbrtfZ2xL7oQBx_",
+      "value": "AKEyXzX3_nSKhCVlQXLw4hm3L7C0ujlg5y2TmauZmHRi3Ngo0HNO7TqzQYUz5j3k1nbZ7ps148FR",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812224380295,
+      "expires": 1812224465401,
       "secure": 1,
       "httpOnly": false
     },
@@ -523,30 +523,12 @@
       "httpOnly": false
     },
     {
-      "name": "__Host-GMAIL_SCH",
-      "value": "nsl",
-      "domain": "mail.google.com",
-      "path": "/",
-      "expires": null,
-      "secure": true,
-      "httpOnly": false
-    },
-    {
       "name": "COMPASS",
       "value": "gmail_ps=CrMBAAlriVc0W847vnpy9Jpo5-GRF51VFREZL6nCrhxZTtmc2PyFgq8JAOCsM8ZxYRI8OuV6AMtpIRA8WB-62tdAFZs06ROxu9Mnxe5bIjyoHAOFnLz9T3kOI7h24-OMaWDurq_y4FOlCHxWlrttK-SuObXgYBPlVejebktF9Eo2P3O77brkj42XKeir0gdxRlgdwEBGvfEGgQsjgEYjhCSPxrvvIvBb1C7dDQU0yoTYdMvYtLUQrPaN0QYa7AEACWuJV1w4C9Bfg0j-htna7eh8PreOxhKcKWQxQYCBZC9D7WxQppiKDK7zvGhoRJ3B6uHRWRBz0YK8xlVWmsckyW621Bk5n8D2LDWMHs7wBeCtfBvzLuONvfYXioVHDnKyc9vkn8cVCAQNgyRGF2-R_gfgi4-xa-O96FnU30NS-k7dL-g_lgWEP0yV1azzY4rQz2KFx-xb-kYRy_W1XwISLi7cKfB-E-vZcysWGvEToRMwpA46VOEULF3HbxOF3TMKk1nsX8-IxpVLAUn_txAUx2Usu88tl6r041M7gSrNYbe1DzZkYbEIdUOjdDAB:gmail=CsIBAAlriVeVTzbGWVo46neFnNzaBRskag8ntI5e20xU3-Ps9w7p5EgJr_K8F3Xmsk7IZUNvulDvCbhHxFHZHIRbmAHSQ37lovU7QExWAYBJGw5cJlgsg8EMI6M5MxSFs-eOl6uQz7FM5RoDEqdXT6R0P7FEU_MUSFOmBf4Ja8t2UjHL7sFFtfqO57ZLtI7mdwbQglaHghSbaiTKSvj4pZRJu7DhRyjiZhBPzKclUlSCaDUktkH0_OW84dCL36vn_cu5YD0Q2IuO0QYa-wEACWuJV4Xpw2SrMPcEbi7AtJ5qesGhzHZH9eUohyRDKG77LqXzp0np9Z4Jwh62JsXJK_FSG9QA6LRhBcty9U-QOd585EBHRi2gU7oTEruA_1Va5jQi7BOtKM-eMw_RzbklB_RUYROvAD8zRdh9ZzYb8GZ3mk9xtkhOOuFvoGWeZx7ACOPmFZIrPmugSyAMyandkiA-DWHfNUBMgiHNxLGyLMi93nhMch0rZroTAxkUbqxp0tF5nlgTGHpVrU3Bk7LZi6Th90111zdo0XYvDl6cu9u0U5wGd1LhRwPaKvkgRB7YtGctik1irsRCP8neyLIaLt0qJwsbn167NTAB",
       "domain": "mail.google.com",
       "path": "/mail/u/0",
       "expires": 1781489218644,
       "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "GMAIL_AT",
-      "value": "AF6bupNpx_2ZY7ATujUsliI8_Kbztxca4w",
-      "domain": "mail.google.com",
-      "path": "/mail/u/0",
-      "expires": null,
-      "secure": true,
       "httpOnly": false
     },
     {
@@ -1162,15 +1144,6 @@
       "httpOnly": false
     },
     {
-      "name": "PLAY_ACTIVE_ACCOUNT",
-      "value": "ICrt_XL61NBE_S0rhk8RpG0k65e0XwQVdDlvB6kxiQ8=authuser-0",
-      "domain": ".play.google.com",
-      "path": "/",
-      "expires": null,
-      "secure": true,
-      "httpOnly": false
-    },
-    {
       "name": "OSID",
       "value": "g.a000-wiiqCmUQL3EwkJ1HIGU-GUAgGrZfbO-RaTWv19MpifC8ypEAXv5R9uMlfbFlqc9fPNUFwACgYKATcSARESFQHGX2Mi4qp0aIIJ7A_Z7JQvhaaH6RoVAUF8yKrVlCZH1s4qRdOPbjzHY8ec0076",
       "domain": "photos.fife.usercontent.google.com",
@@ -1303,15 +1276,6 @@
       "path": "/",
       "expires": 1783277023000,
       "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "FACET_EXPERIMENT_IDS_BOQ",
-      "value": "[106228691, 97493658, 105901316, 97785986, 98073362, 97656897, 97442197, 97493636, 105792751, 106058902, 1706538, 48554503, 105739270, 1714253, 97535270, 106242883, 97863042, 106106954, 106112888, 106032101, 105667213, 98225186, 48489830, 97493642, 97785970, 98073330, 97656881, 97442181, 97493620, 105739254]",
-      "domain": "cloud.google.com",
-      "path": "/",
-      "expires": null,
-      "secure": false,
       "httpOnly": false
     },
     {
@@ -1474,15 +1438,6 @@
       "path": "/colaboratory/",
       "expires": 1780687039000,
       "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "__utmc",
-      "value": "180832036",
-      "domain": ".research.google.com",
-      "path": "/colaboratory/",
-      "expires": null,
-      "secure": false,
       "httpOnly": false
     }
   ]
