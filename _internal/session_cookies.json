@@ -164,19 +164,28 @@
     },
     {
       "name": "SIDCC",
-      "value": "AKEyXzWUYDCTdIpd3QhlJ-XntJVVz6nxsqpcW4xLmYN84AA9YrEjSla-4HOECldgaGvvNotj1rs",
+      "value": "AKEyXzW05pZDoVoGizcNY2Ww_7tHbpG6-tVLBMFi0DtnJOzy6IF4CnqxikrektPvE-p6TIP_Ip8",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812186452739,
+      "expires": 1812186502203,
       "secure": 0,
       "httpOnly": false
     },
     {
       "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzUw_i-idF0O1y9B_yBhDvO3awCpfD-Udh7so5RUmcm077TOpr6MVHWQ4z96XLO0YbJ81ZRp",
+      "value": "AKEyXzXrqHL5DiMq607_iXkWL2rP8n8WhpAbpcnj5KEZRZBh31HR1HplPY38UzZpYAqKej6K7kfU",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812186452739,
+      "expires": 1812186502203,
+      "secure": 1,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzVm0ZQjH6JoGDvFVQffcBErpFVQ5ZOJM6zQyC7Cevy8oIJoPvkU50lNo6KufQniolBJt7p4",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812186502203,
       "secure": 1,
       "httpOnly": false
     },
@@ -550,30 +559,12 @@
       "httpOnly": false
     },
     {
-      "name": "__Host-GMAIL_SCH",
-      "value": "nsl",
-      "domain": "mail.google.com",
-      "path": "/",
-      "expires": null,
-      "secure": true,
-      "httpOnly": false
-    },
-    {
       "name": "COMPASS",
       "value": "gmail_ps=CrMBAAlriVc0W847vnpy9Jpo5-GRF51VFREZL6nCrhxZTtmc2PyFgq8JAOCsM8ZxYRI8OuV6AMtpIRA8WB-62tdAFZs06ROxu9Mnxe5bIjyoHAOFnLz9T3kOI7h24-OMaWDurq_y4FOlCHxWlrttK-SuObXgYBPlVejebktF9Eo2P3O77brkj42XKeir0gdxRlgdwEBGvfEGgQsjgEYjhCSPxrvvIvBb1C7dDQU0yoTYdMvYtLUQrPaN0QYa7AEACWuJV1w4C9Bfg0j-htna7eh8PreOxhKcKWQxQYCBZC9D7WxQppiKDK7zvGhoRJ3B6uHRWRBz0YK8xlVWmsckyW621Bk5n8D2LDWMHs7wBeCtfBvzLuONvfYXioVHDnKyc9vkn8cVCAQNgyRGF2-R_gfgi4-xa-O96FnU30NS-k7dL-g_lgWEP0yV1azzY4rQz2KFx-xb-kYRy_W1XwISLi7cKfB-E-vZcysWGvEToRMwpA46VOEULF3HbxOF3TMKk1nsX8-IxpVLAUn_txAUx2Usu88tl6r041M7gSrNYbe1DzZkYbEIdUOjdDAB:gmail=CsIBAAlriVeVTzbGWVo46neFnNzaBRskag8ntI5e20xU3-Ps9w7p5EgJr_K8F3Xmsk7IZUNvulDvCbhHxFHZHIRbmAHSQ37lovU7QExWAYBJGw5cJlgsg8EMI6M5MxSFs-eOl6uQz7FM5RoDEqdXT6R0P7FEU_MUSFOmBf4Ja8t2UjHL7sFFtfqO57ZLtI7mdwbQglaHghSbaiTKSvj4pZRJu7DhRyjiZhBPzKclUlSCaDUktkH0_OW84dCL36vn_cu5YD0Q2IuO0QYa-wEACWuJV4Xpw2SrMPcEbi7AtJ5qesGhzHZH9eUohyRDKG77LqXzp0np9Z4Jwh62JsXJK_FSG9QA6LRhBcty9U-QOd585EBHRi2gU7oTEruA_1Va5jQi7BOtKM-eMw_RzbklB_RUYROvAD8zRdh9ZzYb8GZ3mk9xtkhOOuFvoGWeZx7ACOPmFZIrPmugSyAMyandkiA-DWHfNUBMgiHNxLGyLMi93nhMch0rZroTAxkUbqxp0tF5nlgTGHpVrU3Bk7LZi6Th90111zdo0XYvDl6cu9u0U5wGd1LhRwPaKvkgRB7YtGctik1irsRCP8neyLIaLt0qJwsbn167NTAB",
       "domain": "mail.google.com",
       "path": "/mail/u/0",
       "expires": 1781489218644,
       "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "GMAIL_AT",
-      "value": "AF6bupNpx_2ZY7ATujUsliI8_Kbztxca4w",
-      "domain": "mail.google.com",
-      "path": "/mail/u/0",
-      "expires": null,
-      "secure": true,
       "httpOnly": false
     },
     {
@@ -592,15 +583,6 @@
       "path": "/mail/u/1",
       "expires": 1781508035945,
       "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "GMAIL_AT",
-      "value": "AF6bupPeeMPfBC2FFAzIrb7XS7Vu6BkDxQ",
-      "domain": "mail.google.com",
-      "path": "/mail/u/1",
-      "expires": null,
-      "secure": true,
       "httpOnly": false
     },
     {
@@ -847,15 +829,6 @@
       "httpOnly": false
     },
     {
-      "name": "__utmc",
-      "value": "61317162",
-      "domain": ".workspace.google.com",
-      "path": "/",
-      "expires": null,
-      "secure": false,
-      "httpOnly": false
-    },
-    {
       "name": "__utmb",
       "value": "61317162.0.10.1780650127",
       "domain": ".workspace.google.com",
@@ -889,15 +862,6 @@
       "path": "/products/drive/",
       "expires": 1815210143210,
       "secure": 0,
-      "httpOnly": false
-    },
-    {
-      "name": "__utmc",
-      "value": "61317162",
-      "domain": ".workspace.google.com",
-      "path": "/products/drive/",
-      "expires": null,
-      "secure": false,
       "httpOnly": false
     },
     {
@@ -979,15 +943,6 @@
       "path": "/",
       "expires": 1815210151606,
       "secure": 1,
-      "httpOnly": false
-    },
-    {
-      "name": "APPS_MARKETING_SIGNALS",
-      "value": "source%3D%26lastExperiment%3D%26allExperiments%3D",
-      "domain": "workspace.google.com",
-      "path": "/products/drive",
-      "expires": null,
-      "secure": false,
       "httpOnly": false
     }
   ]
