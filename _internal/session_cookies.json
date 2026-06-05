@@ -172,20 +172,29 @@
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzXK2AozQRLQCzbVTdZ1MSkW1Hwp80HirHh1Xn8HZv9-sfJG-9XVgkDZIlFgnIh77Be_zZNY",
+      "name": "SIDCC",
+      "value": "AKEyXzWS09SRnD-ah2PVF-u3s9etYEB7kqFL2nVnLfR6d_P_R0E-tLrgDUrlYa8L_XslwLaZedg",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812230504526,
+      "expires": 1812230518876,
+      "secure": 0,
+      "httpOnly": false
+    },
+    {
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzXiYBjN61VRyoJ-9cwvUJZQtivCoJpvewl5U1UH_0xGovJm6byL1qHVdqhhZrlBfL4Sqb1i",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1812230518876,
       "secure": 1,
       "httpOnly": false
     },
     {
       "name": "__Secure-3PSIDCC",
-      "value": "AKEyXzXdqvwB-6x7VlgOdCsmiEDY2ku8txtuMRT87f2stpEP4peKAXWoCxtoTfx3E5WOMgzM7vSk",
+      "value": "AKEyXzVZbee57uf4fSNT3B_cVRJ3Mf4VyKapHVM5m4tgeNLJwaEhD5cnwS8H7h9KaYTWc6GrJP1p",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812230504526,
+      "expires": 1812230518876,
       "secure": 1,
       "httpOnly": false
     },
