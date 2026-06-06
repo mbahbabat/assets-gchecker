@@ -172,20 +172,20 @@
       "httpOnly": false
     },
     {
-      "name": "SIDCC",
-      "value": "AKEyXzVdoBO7wPIk4QyGN2bv1u5ysiLHgO4b_8Q4n71FhYkUB6c2KS1Hx5lUGqQ9Idgf3xihAAc",
+      "name": "__Secure-1PSIDCC",
+      "value": "AKEyXzX-S8jwqqmpEmBV_FQ0r4IOW9l7m32VH9JThPym-txXxs5BfrqkIOGjyvz4gKD0xS1h82iB",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812288888500,
-      "secure": 0,
+      "expires": 1812288909097,
+      "secure": 1,
       "httpOnly": false
     },
     {
-      "name": "__Secure-1PSIDCC",
-      "value": "AKEyXzXWe7c-o5j1jNAmFNq15AQfM-BHRyADhxo6kXRXRlgrthXvaZhVLdlUV8LcLyi1-O1iLmPV",
+      "name": "__Secure-3PSIDCC",
+      "value": "AKEyXzV6vd-l40gs5hml9vV5RS7CmritpT6fwdjWI_xcYS0n3TL7IVYzGiAMRxKA-VSZl2oAUvfl",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1812288888500,
+      "expires": 1812288909097,
       "secure": 1,
       "httpOnly": false
     },
