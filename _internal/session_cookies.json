@@ -184,20 +184,20 @@
           "httpOnly": false
         },
         {
-          "name": "SIDCC",
-          "value": "AKEyXzWCvbojIGvKRdaJwbmJMAPb8FOx-v5qKdhwl3dBqIIRFKIgDqH0ZBLlCmRWvp9nNTyGmvc",
+          "name": "__Secure-1PSIDCC",
+          "value": "AKEyXzVQwgxPUe6cDz8sXn6wsAGFl4_nAWVvPwZSxc3oAtqe7_k2KyV0SP62NMe0zFFXqUMuxVs",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812443045368,
-          "secure": 0,
+          "expires": 1812443358557,
+          "secure": 1,
           "httpOnly": false
         },
         {
-          "name": "__Secure-1PSIDCC",
-          "value": "AKEyXzWlQB_heJ9tdRG_ukx3wf71idBuxMtEOLXghqIN0AvXvvZC7phLNINS4J6QkhpzOB8UZpo",
+          "name": "__Secure-3PSIDCC",
+          "value": "AKEyXzXCPqqmWJp8FvgqXRnda29gyZl9EQn25BsmnKhCA7Bw5RTIm5yqrYUAK48L3xK_PYKTcQ",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812443045368,
+          "expires": 1812443358557,
           "secure": 1,
           "httpOnly": false
         },
@@ -446,10 +446,10 @@
         },
         {
           "name": "COMPASS",
-          "value": "calendar=CgAQn_qZ0QYaXwAJa4lXCa5HC4bMp8NaDtjFbJQIxVuVH3pmYip-6Y9rEVKYjV7FNfUQywHiHDJjAU5jynq8xLbCK0N903A-3DYxD-awnRCCi3KfZdgzPconTxY1rdJ5_8L47Q8QhCj-IAEwAQ",
+          "value": "calendar=CgAQif-Z0QYaXwAJa4lXCa5HC4bMp8NaDtjFbJQIxVuVH3pmYip-6Y9rEVKYjV7FNfUQywHiHDJjAU5jynq8xLbCK0N903A-3DYxD-awnRCCi3KfZdgzPconTxY1rdJ5_8L47Q8QhCj-IAEwAQ",
           "domain": "calendar.google.com",
           "path": "/",
-          "expires": 1781770692329,
+          "expires": 1781771310515,
           "secure": 1,
           "httpOnly": false
         },
@@ -554,10 +554,10 @@
         },
         {
           "name": "COMPASS",
-          "value": "feapi-server=CgAQtfiZ0QYaZwAJa4lXj7RezulVPLaaq5pBk1bdy8ZlYYuJVuNk-qUKBK3p9FbrN9KDBZX3lWb-QbA3LZCq6XWZkOG1r4afRvf0GQ058YjtX8St0L31GuzV_ti7o8jx2Fyy7jw8C9n9mvbi5rWcZvQgATAB",
+          "value": "feapi-server=CgAQiv-Z0QYaZwAJa4lXj7RezulVPLaaq5pBk1bdy8ZlYYuJVuNk-qUKBK3p9FbrN9KDBZX3lWb-QbA3LZCq6XWZkOG1r4afRvf0GQ058YjtX8St0L31GuzV_ti7o8jx2Fyy7jw8C9n9mvbi5rWcZvQgATAB",
           "domain": "calendar-pa.clients6.google.com",
           "path": "/",
-          "expires": 1781770458047,
+          "expires": 1781771310849,
           "secure": 1,
           "httpOnly": false
         }
