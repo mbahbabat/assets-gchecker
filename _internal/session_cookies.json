@@ -167,47 +167,38 @@
         },
         {
           "name": "__Secure-1PSIDTS",
-          "value": "sidts-CjEByojQUzGnkpSaiar5_o9PysD3V-ANf-YhgIKD1OBbk3iyvJOklYF9WETuxHF8h1YVEAA",
+          "value": "sidts-CjEByojQU2id7dz1yUTYCf2eQSKJG4_BMZrGdWYIC6ylwXIXI3QVHExLjfszWnvx_876EAA",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812443646589,
+          "expires": 1812444247820,
           "secure": 1,
           "httpOnly": false
         },
         {
           "name": "__Secure-3PSIDTS",
-          "value": "sidts-CjEByojQUzGnkpSaiar5_o9PysD3V-ANf-YhgIKD1OBbk3iyvJOklYF9WETuxHF8h1YVEAA",
+          "value": "sidts-CjEByojQU2id7dz1yUTYCf2eQSKJG4_BMZrGdWYIC6ylwXIXI3QVHExLjfszWnvx_876EAA",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812443646589,
+          "expires": 1812444247820,
           "secure": 1,
           "httpOnly": false
         },
         {
           "name": "__Secure-1PSIDCC",
-          "value": "AKEyXzWWq3N1OgI_-1Ly0CDXi34-ne9fA9ePKszoZd3oCNJTC8yeJfc2fJ4gTx7zYHdK4qNnQEU",
+          "value": "AKEyXzUpbfA5lzXIrQ5zLZCa3gkxYNv4zsFZJMJxcndpk_R30Y8fHIpheYoEgcyGdHOqMRlE0vQ",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812443933127,
+          "expires": 1812444265168,
           "secure": 1,
           "httpOnly": false
         },
         {
           "name": "__Secure-3PSIDCC",
-          "value": "AKEyXzXcA_qveYzUJ3qvq7rxJuCeyosZjl-kAPpKQlFEqIcvZs6JvzrhUBYuRzuK6YBCzjhLfA",
+          "value": "AKEyXzVlmB33nknOeGrUiT8KfldsN4D_4ixt3Sf2qfzK-EQVVXsMWnCjDwska_yvpI65gDI6mw",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812443933127,
+          "expires": 1812444265168,
           "secure": 1,
-          "httpOnly": false
-        },
-        {
-          "name": "SIDCC",
-          "value": "AKEyXzVHD_Kw2y93TDx4xx-eqKrzEgpCVWsloDjPgyQDRhiOQGSp3QzpygzMAud0fQCsKky7JJQ",
-          "domain": ".google.com",
-          "path": "/",
-          "expires": 1812443951980,
-          "secure": 0,
           "httpOnly": false
         },
         {
@@ -455,10 +446,10 @@
         },
         {
           "name": "COMPASS",
-          "value": "calendar=CgAQif-Z0QYaXwAJa4lXCa5HC4bMp8NaDtjFbJQIxVuVH3pmYip-6Y9rEVKYjV7FNfUQywHiHDJjAU5jynq8xLbCK0N903A-3DYxD-awnRCCi3KfZdgzPconTxY1rdJ5_8L47Q8QhCj-IAEwAQ",
+          "value": "calendar=CgAQ3YSa0QYaXwAJa4lXCa5HC4bMp8NaDtjFbJQIxVuVH3pmYip-6Y9rEVKYjV7FNfUQywHiHDJjAU5jynq8xLbCK0N903A-3DYxD-awnRCCi3KfZdgzPconTxY1rdJ5_8L47Q8QhCj-IAEwAQ",
           "domain": "calendar.google.com",
           "path": "/",
-          "expires": 1781771310515,
+          "expires": 1781772034185,
           "secure": 1,
           "httpOnly": false
         },
