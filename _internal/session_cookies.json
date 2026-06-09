@@ -5120,28 +5120,19 @@
         },
         {
           "name": "SIDCC",
-          "value": "AKEyXzWCf_C6RN1LXcP9tR7jxVvGzdGEiO7SyXmImbfnwo_glNWOeg5TC8_c3ynoIn9Pe5FBow",
+          "value": "AKEyXzVHajejI2KdplfeqOBk8QYFdWn0lzUIFL-yflQHhwSLU__aQbPxLbDZ4YHKYynvrdJKKw",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812524474060,
+          "expires": 1812526587476,
           "secure": 0,
           "httpOnly": false
         },
         {
           "name": "__Secure-1PSIDCC",
-          "value": "AKEyXzUjM5kvFkKOigukBfsoni4hkrjviz8kXeB9IE6Q4Rex5eu_8OPihC91WWV4jVWeSCgmMQY",
+          "value": "AKEyXzXfUKimZ8pIDWXdF-1Lg35KU93Z1S30BwO0nQEDjMqg-3E784tzXeNyTJETn8WA1nySMTc",
           "domain": ".google.com",
           "path": "/",
-          "expires": 1812524474060,
-          "secure": 1,
-          "httpOnly": false
-        },
-        {
-          "name": "__Secure-3PSIDCC",
-          "value": "AKEyXzVrzwCUlbVpDLT0e2zS9VeiU3OxS1BBk2hS8cDfx_M0vGw73l85izyCzBVrbmlwS9bGlA",
-          "domain": ".google.com",
-          "path": "/",
-          "expires": 1812524474060,
+          "expires": 1812526587476,
           "secure": 1,
           "httpOnly": false
         },
@@ -5440,6 +5431,42 @@
           "path": "/",
           "expires": 1781852459734,
           "secure": 1,
+          "httpOnly": false
+        },
+        {
+          "name": "_ga",
+          "value": "GA1.1.1090952918.1780990555",
+          "domain": ".aistudio.google.com",
+          "path": "/",
+          "expires": 1815550555153,
+          "secure": 0,
+          "httpOnly": false
+        },
+        {
+          "name": "_gcl_au",
+          "value": "1.1.1913453395.1780990555",
+          "domain": ".aistudio.google.com",
+          "path": "/",
+          "expires": 1788766555000,
+          "secure": 0,
+          "httpOnly": false
+        },
+        {
+          "name": "_ga_RJSPDF5Y0Q",
+          "value": "GS2.1.s1780990555$o1$g0$t1780990556$j59$l0$h0",
+          "domain": ".aistudio.google.com",
+          "path": "/",
+          "expires": 1815550556494,
+          "secure": 0,
+          "httpOnly": false
+        },
+        {
+          "name": "_ga_P1DBVKWT6V",
+          "value": "GS2.1.s1780990555$o1$g0$t1780990556$j59$l0$h131844173",
+          "domain": ".aistudio.google.com",
+          "path": "/",
+          "expires": 1815550556507,
+          "secure": 0,
           "httpOnly": false
         }
       ]
